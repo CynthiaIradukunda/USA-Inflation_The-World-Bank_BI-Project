@@ -1,5 +1,3 @@
-#ISQS-6339-D01 Group 3: Final Project
-# Caroline Dennington, Matthew Galvan, Eduardo Gamez, Cynthia Iradukunda, Candace Mouton
 
 import pandas as pd
 import numpy as np
