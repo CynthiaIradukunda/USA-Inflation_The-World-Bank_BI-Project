@@ -41,10 +41,19 @@ This project investigates the relationship between USA climate variables, food p
     - Significant positive relationship (10% variance explained; p = 0.01).
 - Average Temperature vs Food Production:
     - Strong positive relationship (39% variance explained; p < 0.001).
+      
+![image](https://github.com/user-attachments/assets/d556d622-d28d-41e6-9517-bdc9a8c7ab48)
+
 - Minimum Temperature vs Food Production:
     - Strongest positive relationship (47% variance explained; p < 0.001).
+ 
+![image](https://github.com/user-attachments/assets/6c6d3d66-c6fb-4bcb-b4da-3334eca191c7)
+
 - Maximum Temperature vs Food Production:
     - Positive relationship (27% variance explained; p < 0.001).
+
+ ![image](https://github.com/user-attachments/assets/ea1e9348-3d5c-41b0-9f95-76f48bf6cef8)
+
       
 2. Food Production and Inflation:
     - Significant negative relationship between food production and inflation rates (8% variance explained; p = 0.03).
