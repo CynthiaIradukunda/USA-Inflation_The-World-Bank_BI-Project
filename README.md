@@ -49,6 +49,9 @@ This project investigates the relationship between USA climate variables, food p
 2. Food Production and Inflation:
     - Significant negative relationship between food production and inflation rates (8% variance explained; p = 0.03).
 
+![image](https://github.com/user-attachments/assets/5d2b3aac-ffb1-4181-8b50-8c39fd2ee0c3)
+
+
 ### Key Takeaways
 - Climate variables, especially temperature, significantly affect food production, highlighting the need for predictive climate monitoring to mitigate risks.
 - Food production fluctuations correlate with inflation, offering insights for policy and supply chain planning.
